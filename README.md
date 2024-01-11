@@ -4,11 +4,11 @@ This is a Python code that performs clustering on three student databases using 
 The databases include:
 
 
-Student results at the beginning of the course
+--> Student results at the beginning of the course
 
-Student results at the end of the course
+--> Student results at the end of the course
 
-Socioeconomic data of each student
+--> Socioeconomic data of each student
 
 
 # Technologies
