@@ -1,16 +1,8 @@
-Este es un código en Python que realiza clustering a 3 bases de datos de estudiantes utilizando el algoritmo de k-means para agrupar a los estudiantes en diferentes clústeres en función de (PBM,Estrato,Edad,Promedio academico) y unifica estas bases de datos de estudiantes en una sola con el fin de comparar los resultados que obtuvo cada cluster ante test realizados en la catedra de felicidad al inicio y al final de la materia en donde podemos observar el bienestar y estado de los estudiantes, 
+This is a Python code that performs clustering on three student databases using the k-means algorithm. The goal is to group students into different clusters based on variables such as (PBM, Socioeconomic Level, Age, Academic Average). The code consolidates these student databases into a single one to compare the results obtained by each cluster during happiness tests conducted at the beginning and end of the course. This allows us to observe the well-being and overall state of the students.
 
-las bases de datos son: 
+The databases include:
 
--Resultados de los estudiantes al inicio de la catedra 
-
--Resultados de los estudiantes al final de la catedra 
-
--Datos socioeconómicos de cada estudiante 
-
-Para este codigo se utilizo:
--sklearn
--matplotlib
--pandas
--seaborn
--numpy
+Student results at the beginning of the course
+Student results at the end of the course
+Socioeconomic data of each student
+For this code, the following libraries were used: - scikit-learn - matplotlib - pandas - seaborn - numpy
