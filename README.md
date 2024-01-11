@@ -1,5 +1,5 @@
 # Student Data Analysis
-This is a Python code that performs clustering on three student databases using the k-means algorithm. The goal is to group students into different clusters based on variables such as (PBM, Socioeconomic Level, Age, Academic Average). The code consolidates these student databases into a single one to compare the results obtained by each cluster during happiness tests conducted at the beginning and end of the course. This allows us to observe the well-being and overall state of the students.
+This Python code utilizes the k-means algorithm to conduct clustering on three student databases. The objective is to categorize students into distinct clusters based on variables like PBM, Socioeconomic Level, Age, and Academic Average. Additionally, the code aims to pinpoint which students experienced an improvement in their overall mental health due to the course and analyze the contributing factors. By merging these student databases into a unified dataset, the code facilitates a comparative analysis of results obtained by each cluster through happiness tests administered at the course's commencement and conclusion. This comprehensive approach enables us to gain insights into the well-being and overall state of the students throughout the course
 
 The databases include:
 
